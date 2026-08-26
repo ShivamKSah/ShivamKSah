@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/pixel-portrait.svg" width="300" alt="Shivam Kumar Sah, pixel portrait">
+<img src="https://github.com/ShivamKSah.png?size=600" width="300" alt="Shivam Kumar Sah">
 
 <br>
 
