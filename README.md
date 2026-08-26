@@ -205,7 +205,7 @@ Relevant coursework: Computer Networks, Operating Systems, Distributed Systems, 
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivamKSah&theme=github_dark" alt="GitHub statistics" width="400"/>
