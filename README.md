@@ -1,24 +1,25 @@
-<div align="center">
+<!-- ===================== HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=120&section=header&text=Shivam%20Kumar%20Sah&fontSize=40&fontColor=ffffff"/>
 
-<img src="https://github.com/ShivamKSah.png?size=600" width="300" alt="Shivam Kumar Sah">
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Software+Engineer;Backend+%26+Distributed+Systems;Applied+AI%2FML;GenAI+Products+%7C+System+Design;Cloud+%26+DevOps;Hackathon+Winner+%7C+Builder"/>
+</h2>
 
-<br>
+<p align="center">
+  <b>Software Engineer · Backend Systems · Distributed Services · Applied AI/ML</b>
+</p>
 
-<a href="https://github.com/ShivamKSah">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Shivam+Kumar+Sah;Software+Engineer;Backend+%26+Distributed+Systems;Applied+AI%2FML;01100011+01101111+01100100+01100101" alt="typing banner">
-</a>
-
-<br>
-
-<a href="https://www.linkedin.com/in/shivam-kumar-sah-b8808b291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:shivamsah141205@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/ShivamKSah"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ShivamKSah&style=flat&color=39d353&label=profile+views" alt="profile views">
-
-</div>
+<p align="center">
+  <a href="mailto:shivamsah141205@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A2A43?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shivam-kumar-sah-b8808b291/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D4C73?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ShivamKSah">
+    <img src="https://img.shields.io/badge/GitHub-0A2A43?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
