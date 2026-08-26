@@ -1,253 +1,159 @@
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; background: #020b16; color: #e5edf7; font-family: Arial, sans-serif;">
-  <tr>
-    <td valign="top" width="28%" style="padding: 18px 16px 18px 16px; border-right: 1px solid #1d2a39; background: #020b16;">
-      <img src="https://github.com/ShivamKSah.png" width="180" height="180" style="border-radius: 50%; border: 2px solid #2d3f59; display: block; margin: 0 auto 16px; background: #dfe8f2;" alt="Shivam Kumar Sah" />
+<!-- ===================== HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=120&section=header&text=Shivam%20Kumar%20Sah&fontSize=40&fontColor=ffffff"/>
 
-      <div style="text-align: center; font-size: 24px; font-weight: 700; color: #edf5ff; margin-bottom: 8px;">Shivam Kumar Sah</div>
-      <div style="text-align: center; font-size: 15px; color: #9fb6c8; margin-bottom: 16px;">@ShivamKSah</div>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Software+Engineer;Backend+%26+Distributed+Systems;Applied+AI%2FML;GenAI+Products+%7C+System+Design;Cloud+%26+DevOps;Hackathon+Winner+%7C+Builder"/>
+</h2>
 
-      <div style="text-align: center; margin-bottom: 18px;">
-        <a href="https://github.com/ShivamKSah" target="_blank"><img src="https://img.shields.io/badge/Follow-0A66C2?style=for-the-badge&logo=github&logoColor=white" /></a>
-      </div>
+<p align="center">
+  <b>Software Engineer · Backend Systems · Distributed Services · Applied AI/ML</b>
+</p>
 
-      <div style="font-size: 15px; line-height: 1.7; color: #d4deea; margin-bottom: 16px;">
-        <b>Software Engineer</b> building mission-critical backend systems, distributed services, and applied AI/ML products.
-      </div>
+<p align="center">
+  <a href="mailto:shivamsah141205@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A2A43?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shivam-kumar-sah-b8808b291/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D4C73?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ShivamKSah">
+    <img src="https://img.shields.io/badge/GitHub-0A2A43?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-      <div style="border-top: 1px solid #1d2a39; padding-top: 14px; margin-top: 12px; color: #dfeaf7;">
-        <div style="margin: 10px 0;"><b>🏢</b> 8-Bit Solutions</div>
-        <div style="margin: 10px 0;"><b>📍</b> SRMIST, India</div>
-        <div style="margin: 10px 0;"><b>📧</b> shivamsah141205@gmail.com</div>
-        <div style="margin: 10px 0;"><b>🔗</b> <a href="https://www.linkedin.com/in/shivam-kumar-sah-b8808b291/" target="_blank" style="color:#7bbcff;">LinkedIn</a></div>
-      </div>
+---
 
-      <div style="margin-top: 18px; border-top: 1px solid #1d2a39; padding-top: 14px;">
-        <div style="font-size: 16px; font-weight: 700; color: #edf5ff; margin-bottom: 12px;">Achievements</div>
-        <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-          <img src="https://img.shields.io/badge/SIH-2024-1st%20%25%20National-orange?style=for-the-badge" alt="SIH 2024" />
-          <img src="https://img.shields.io/badge/Hackathon-3x%20Champion-blue?style=for-the-badge" alt="Hackathon champion" />
-          <img src="https://img.shields.io/badge/IEEE-Impact-2026-9B59B6?style=for-the-badge" alt="IEEE IMPACT 2026" />
-        </div>
-      </div>
-    </td>
+## About Me
 
-    <td valign="top" width="72%" style="padding: 0 0 0 0; background: #020b16;">
-      <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; background: #020b16; color: #e5edf7; font-family: Arial, sans-serif;">
-        <tr>
-          <td style="padding: 0; background: linear-gradient(90deg, #0f2137 0%, #0d2a42 100%); border-bottom: 1px solid #203247;">
-            <div style="padding: 24px 28px 18px; font-size: 26px; font-weight: 700; color: #edf5ff;">Shivam Kumar Sah</div>
-          </td>
-        </tr>
-        <tr>
-          <td style="padding: 18px 28px 0;">
-            <div style="font-size: 18px; color: #a4d9ff; text-align: center; margin-bottom: 14px;">Software Engineer | Backend & Distributed Systems | Applied AI/ML</div>
-            <div style="text-align: center; margin-bottom: 18px;">
-              <a href="mailto:shivamsah141205@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-              <a href="https://www.linkedin.com/in/shivam-kumar-sah-b8808b291/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-              <a href="https://github.com/ShivamKSah" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-            </div>
-          </td>
-        </tr>
+> **Software Engineer** building backend systems, distributed infrastructure, and AI-driven products with a strong focus on performance, reliability, and practical impact.
 
-        <tr>
-          <td style="padding: 18px 28px 0;">
-            <div style="border-top: 1px solid #1d2a39; padding-top: 14px; font-size: 18px; font-weight: 700; color: #edf5ff; margin-bottom: 12px;">About Me</div>
-            <div style="font-size: 15px; line-height: 1.75; color: #d5e1ef;">
-              <p style="margin: 0 0 10px;">B.Tech CSE (Big Data Analytics), <b>SRM Institute of Science and Technology</b> — CGPA 9.2/10, graduating Jun 2027.</p>
-              <p style="margin: 0 0 10px;">Software Engineer Intern at <b>8-Bit Solutions</b> focused on backend systems and reliability, reducing latency by 35% and increasing throughput by 40% on production workloads.</p>
-              <ul style="margin: 8px 0 0 20px; padding: 0;">
-                <li>Top 1% nationally at Smart India Hackathon 2024 (50,000+ participants, 500+ institutions).</li>
-                <li>3× Hackathon Champion — Noobfest, MedAIThon, Smartathon.</li>
-                <li>Published paper: <i>Using ML BERT Models for Plagiarism Detection</i> — IEEE IMPACT 2026.</li>
-                <li>Open Source Contributor, GSSoC 2024 — merged PRs across 3 TypeScript/React repos.</li>
-              </ul>
-            </div>
-          </td>
-        </tr>
+- 🎓 B.Tech CSE (Big Data Analytics), **SRM Institute of Science and Technology** — CGPA 9.2/10, graduating Jun 2027
+- 💼 Software Engineer Intern @ **8-Bit Solutions** (Backend Systems & Reliability) — reduced backend latency by 35% and increased throughput by 40% on a live production platform
+- 🏆 **Top 1% Nationally** at Smart India Hackathon 2024 (50,000+ participants, 500+ institutions) — led a cross-functional team building a full-stack GenAI enterprise platform
+- 🏅 3× Hackathon Champion — Noobfest, MedAIThon, Smartathon
+- 📝 Published: *"Using ML BERT Models for Plagiarism Detection"* — IEEE IMPACT 2026
+- 🌱 Open Source Contributor, GSSoC 2024 — merged PRs across 3 TypeScript/React repositories
+- 📫 Reach me at **shivamsah141205@gmail.com**
 
-        <tr>
-          <td style="padding: 18px 28px 0;">
-            <div style="border-top: 1px solid #1d2a39; padding-top: 14px; font-size: 18px; font-weight: 700; color: #edf5ff; margin-bottom: 12px;">Core Skills & Technologies</div>
-            <table width="100%" cellpadding="8" cellspacing="0" border="0" style="border-collapse: collapse; background: #071522; color: #dfeaf7; font-family: Arial, sans-serif;">
-              <tr>
-                <td valign="top" width="25%" style="padding: 12px; border: 1px solid #1d2a39; background: #081a2b;">
-                  <div style="font-size: 14px; font-weight: 700; color: #9fe2ff; margin-bottom: 8px;">AI / ML</div>
-                  <div><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></div>
-                  <div><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /></div>
-                  <div><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" /></div>
-                  <div><img src="https://img.shields.io/badge/RAG_Pipelines-black?style=flat-square" /></div>
-                </td>
-                <td valign="top" width="25%" style="padding: 12px; border: 1px solid #1d2a39; background: #081a2b;">
-                  <div style="font-size: 14px; font-weight: 700; color: #9fe2ff; margin-bottom: 8px;">Backend</div>
-                  <div><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /></div>
-                  <div><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /></div>
-                  <div><img src="https://img.shields.io/badge/REST_APIs-black?style=flat-square" /></div>
-                  <div><img src="https://img.shields.io/badge/Microservices-black?style=flat-square" /></div>
-                </td>
-                <td valign="top" width="25%" style="padding: 12px; border: 1px solid #1d2a39; background: #081a2b;">
-                  <div style="font-size: 14px; font-weight: 700; color: #9fe2ff; margin-bottom: 8px;">Cloud</div>
-                  <div><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /></div>
-                  <div><img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /></div>
-                  <div><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></div>
-                  <div><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /></div>
-                </td>
-                <td valign="top" width="25%" style="padding: 12px; border: 1px solid #1d2a39; background: #081a2b;">
-                  <div style="font-size: 14px; font-weight: 700; color: #9fe2ff; margin-bottom: 8px;">Data</div>
-                  <div><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></div>
-                  <div><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></div>
-                  <div><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /></div>
-                  <div><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" /></div>
-                </td>
-              </tr>
-            </table>
-          </td>
-        </tr>
+---
 
-        <tr>
-          <td style="padding: 18px 28px 0;">
-            <div style="border-top: 1px solid #1d2a39; padding-top: 14px; font-size: 18px; font-weight: 700; color: #edf5ff; margin-bottom: 12px;">Languages & Data</div>
-            <div style="text-align: left;">
-              <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-              <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-              <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-              <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-              <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-              <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-              <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-              <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-            </div>
-          </td>
-        </tr>
+## Core Skills & Technologies
 
-        <tr>
-          <td style="padding: 18px 28px 0;">
-            <div style="border-top: 1px solid #1d2a39; padding-top: 14px; font-size: 18px; font-weight: 700; color: #edf5ff; margin-bottom: 12px;">Achievements & Events</div>
-            <table width="100%" cellpadding="8" cellspacing="0" border="0" style="border-collapse: collapse; background: #071522; color: #dfeaf7; font-family: Arial, sans-serif; border: 1px solid #1d2a39;">
-              <tr style="background: #0b1e2e; color: #edf5ff; font-weight: 700;">
-                <td width="34%">Event</td>
-                <td width="34%">Outcome</td>
-                <td width="32%">Prize / Recognition</td>
-              </tr>
-              <tr>
-                <td>Smart India Hackathon 2024</td>
-                <td>🥇 Top 1% Nationally</td>
-                <td>50,000+ participants</td>
-              </tr>
-              <tr>
-                <td>Noobfest / MedAIThon / Smartathon</td>
-                <td>🏅 Hackathon Champion</td>
-                <td>3×</td>
-              </tr>
-              <tr>
-                <td>GSSoC 2024</td>
-                <td>Open Source Contributor</td>
-                <td>3 repos</td>
-              </tr>
-              <tr>
-                <td>IEEE IMPACT 2026</td>
-                <td>Publication</td>
-                <td>“Using ML BERT Models for Plagiarism Detection”</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
+<table width="100%" align="center">
+<tr>
+<td width="25%" valign="top">
 
-        <tr>
-          <td style="padding: 18px 28px 0;">
-            <div style="border-top: 1px solid #1d2a39; padding-top: 14px; font-size: 18px; font-weight: 700; color: #edf5ff; margin-bottom: 12px;">Featured Projects</div>
-            <table width="100%" cellpadding="8" cellspacing="0" border="0" style="border-collapse: collapse; background: #071522; color: #dfeaf7; font-family: Arial, sans-serif; border: 1px solid #1d2a39;">
-              <tr style="background: #0b1e2e; color: #edf5ff; font-weight: 700;">
-                <td width="28%">Project</td>
-                <td width="42%">Description</td>
-                <td width="18%">Stack</td>
-                <td width="12%">Recognition</td>
-              </tr>
-              <tr>
-                <td><a href="https://github.com/ShivamKSah" style="color:#7bbcff;">Human Digital Twin Platform</a></td>
-                <td>4-service platform with embedding-based retrieval optimization.</td>
-                <td>Python, FastAPI, PostgreSQL</td>
-                <td>—</td>
-              </tr>
-              <tr>
-                <td><a href="https://github.com/ShivamKSah" style="color:#7bbcff;">Mpox Early Detection System</a></td>
-                <td>CNN classifier with 99.93% accuracy and observability stack.</td>
-                <td>Python, C/C++, TensorFlow</td>
-                <td>—</td>
-              </tr>
-              <tr>
-                <td><a href="https://github.com/ShivamKSah" style="color:#7bbcff;">DevOps Release Tracker API</a></td>
-                <td>Layered Spring Boot REST API with JWT auth and automated provisioning.</td>
-                <td>Java, Spring Boot, Docker</td>
-                <td>—</td>
-              </tr>
-              <tr>
-                <td><a href="https://github.com/ShivamKSah/AXIONA" style="color:#7bbcff;">AXIONA</a></td>
-                <td>AI-powered workflow automation and intelligent enterprise operations.</td>
-                <td>TypeScript</td>
-                <td>—</td>
-              </tr>
-              <tr>
-                <td><a href="https://github.com/ShivamKSah/SnehSathi" style="color:#7bbcff;">SnehSathi</a></td>
-                <td>Community-focused well-being and support platform.</td>
-                <td>TypeScript</td>
-                <td>—</td>
-              </tr>
-              <tr>
-                <td><a href="https://github.com/ShivamKSah/PDF-EDITOR" style="color:#7bbcff;">PDF-EDITOR</a></td>
-                <td>Browser-based PDF editing and document workflow toolkit.</td>
-                <td>TypeScript</td>
-                <td>—</td>
-              </tr>
-              <tr>
-                <td><a href="https://github.com/ShivamKSah/BeachBliss" style="color:#7bbcff;">BeachBliss</a></td>
-                <td>Travel and leisure app for beach discovery and trip planning.</td>
-                <td>HTML</td>
-                <td>—</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
+### AI / ML & GenAI
 
-        <tr>
-          <td style="padding: 18px 28px 0;">
-            <div style="border-top: 1px solid #1d2a39; padding-top: 14px; font-size: 18px; font-weight: 700; color: #edf5ff; margin-bottom: 12px;">Experience</div>
-            <table width="100%" cellpadding="8" cellspacing="0" border="0" style="border-collapse: collapse; background: #071522; color: #dfeaf7; font-family: Arial, sans-serif; border: 1px solid #1d2a39;">
-              <tr style="background: #0b1e2e; color: #edf5ff; font-weight: 700;">
-                <td width="25%">Role</td>
-                <td width="25%">Company</td>
-                <td width="25%">Period</td>
-                <td width="25%">Type</td>
-              </tr>
-              <tr>
-                <td>Software Engineer Intern</td>
-                <td>8-Bit Solutions</td>
-                <td>2025 – Present</td>
-                <td>Remote</td>
-              </tr>
-              <tr>
-                <td>Backend Systems</td>
-                <td>Production Platform</td>
-                <td>2024 – 2025</td>
-                <td>Project</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 
-        <tr>
-          <td style="padding: 18px 28px 20px;">
-            <div style="border-top: 1px solid #1d2a39; padding-top: 14px; font-size: 18px; font-weight: 700; color: #edf5ff; margin-bottom: 12px;">GitHub Stats</div>
-            <div style="text-align: center;">
-              <img src="https://github-readme-stats.vercel.app/api?username=ShivamKSah&show_icons=true&theme=tokyonight" height="165" />
-              <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamKSah&theme=tokyonight" height="165" />
-              <br />
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKSah&layout=compact&theme=tokyonight" height="165" />
-            </div>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+![LangChain](https://img.shields.io/badge/LangChain-0A2A43?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0A2A43?style=flat-square&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Apps-1a1a2e?style=flat-square&logoColor=white)
+
+</td>
+<td width="25%" valign="top">
+
+### Backend & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,postgresql,redis,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux&theme=dark"/>
+
+![REST](https://img.shields.io/badge/REST_APIs-black?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-black?style=flat-square)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+<td width="25%" valign="top">
+
+### Data & Analytics
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,spark&theme=dark"/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+</td>
+<td width="25%" valign="top">
+
+### DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,githubactions&theme=dark"/>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</td>
+</tr>
 </table>
+
+---
+
+### Languages & Data
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,sql&theme=dark"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+</p>
+
+---
+
+## Achievements & Events
+
+| Event | Outcome | Prize / Recognition |
+|-------|---------|---------------------|
+| **Smart India Hackathon 2024** | 🥇 **Top 1% Nationally** — 50,000+ participants, 500+ institutions | National recognition |
+| **Noobfest / MedAIThon / Smartathon** | 🏅 **Hackathon Champion** | 3× wins |
+| **GSSoC 2024** | Open Source Contributor | Merged PRs across 3 repos |
+| **IEEE IMPACT 2026** | Publication — *Using ML BERT Models for Plagiarism Detection* | Published paper |
+| **Certifications** | AWS Developer Associate Prep · Neo4j Certified Professional · NPTEL Data Analytics | Career growth |
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Human Digital Twin Platform** | 4-service platform with embedding-based retrieval optimization; reduced query latency and improved stability at peak load. | Python, FastAPI, PostgreSQL, MongoDB, AWS, GCP, Docker, Kubernetes |
+| **Mpox Early Detection System** | CNN-based early detection pipeline with strong evaluation metrics and production-grade observability. | Python, C/C++, TensorFlow, REST API, GCP, Grafana, Kibana |
+| **DevOps Release Tracker API** | Layered Spring Boot API with JWT auth, test coverage, and automated provisioning pipelines. | Java 17, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, Jenkins, Ansible |
+| **[AXIONA](https://github.com/ShivamKSah/AXIONA)** | AI-powered platform for automating workflows and generating actionable enterprise insights. | TypeScript |
+| **[SnehSathi](https://github.com/ShivamKSah/SnehSathi)** | Supportive community-driven platform focused on well-being, guidance, and care resources. | TypeScript |
+| **[PDF-EDITOR](https://github.com/ShivamKSah/PDF-EDITOR)** | Browser-based PDF editing toolkit for merging, splitting, and transforming documents efficiently. | TypeScript |
+| **[BeachBliss](https://github.com/ShivamKSah/BeachBliss)** | Travel and leisure application for discovering beach destinations and planning trips. | HTML |
+| **[SMS-Spam-Detection](https://github.com/ShivamKSah/SMS-Spam-Detection)** | ML model for classifying SMS messages as spam vs ham. | Jupyter Notebook, Python |
+| **[TicTacToe](https://github.com/ShivamKSah/TicTacToe)** | Classic Tic-Tac-Toe game built to practice JavaScript logic and DOM manipulation. | JavaScript |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamKSah&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamKSah&theme=tokyonight" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKSah&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+<p align="center"><i>⭐️ Available full-time — feel free to explore my repos and reach out to collaborate!</i></p>
