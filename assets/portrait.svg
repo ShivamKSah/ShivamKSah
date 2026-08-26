@@ -1,21 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="360" viewBox="0 0 360 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="360" viewBox="0 0 460 360" shape-rendering="crispEdges" role="img" aria-labelledby="title desc">
   <title id="title">Shivam Kumar Sah, rendered as a dot matrix</title>
   <desc id="desc">A terminal-style pixel portrait made from green, amber, and blue dots.</desc>
   <defs>
-    <pattern id="pixel" width="6" height="6" patternUnits="userSpaceOnUse">
-      <circle cx="2.5" cy="2.5" r="1.8" fill="currentColor"/>
+    <pattern id="pixel" width="4" height="4" patternUnits="userSpaceOnUse">
+      <circle cx="1.7" cy="1.7" r="1.15" fill="currentColor"/>
     </pattern>
     <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#39d353"/><stop offset="1" stop-color="#0b4d36"/>
+      <stop stop-color="#f07832"/><stop offset="0.45" stop-color="#9e3824"/><stop offset="1" stop-color="#241719"/>
     </linearGradient>
     <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#ffd166"/><stop offset="1" stop-color="#d85c38"/>
+      <stop stop-color="#ffd166"/><stop offset="0.5" stop-color="#f59e42"/><stop offset="1" stop-color="#c64a2d"/>
     </linearGradient>
     <clipPath id="silhouette">
       <path d="M55 330c8-68 35-101 84-116-18-23-23-51-16-82 9-39 40-65 78-65 44 0 75 28 83 70 6 31-1 57-19 77 47 15 72 49 80 116z"/>
     </clipPath>
   </defs>
-  <rect width="360" height="360" rx="12" fill="#0d1117"/>
+  <rect width="460" height="360" rx="12" fill="#0d1117"/>
   <g clip-path="url(#silhouette)">
     <rect x="42" y="42" width="276" height="292" fill="url(#pixel)" style="color:#123b35"/>
     <path d="M44 220c7-86 29-149 81-164 48-14 112-2 140 43 17 28 20 78 10 125l-34-30-5-87-27-30-89 8-32 40-13 80z" fill="url(#hair)"/>
