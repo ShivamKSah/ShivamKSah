@@ -132,9 +132,9 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **Human Digital Twin Platform** | 4-service platform with embedding-based retrieval optimization; reduced query latency and improved stability at peak load. | Python, FastAPI, PostgreSQL, MongoDB, AWS, GCP, Docker, Kubernetes |
-| **Mpox Early Detection System** | CNN-based early detection pipeline with strong evaluation metrics and production-grade observability. | Python, C/C++, TensorFlow, REST API, GCP, Grafana, Kibana |
-| **DevOps Release Tracker API** | Layered Spring Boot API with JWT auth, test coverage, and automated provisioning pipelines. | Java 17, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, Jenkins, Ansible |
+| **Human Digital Twin Platform** | 4-service platform with embedding-based retrieval optimization; cut query latency 30%, held stability at 2x peak load, and reduced release cycles from 4 hours to 90 minutes with GitHub Actions. | Python, FastAPI, PostgreSQL, MongoDB, AWS, GCP, Docker, Kubernetes |
+| **Mpox Early Detection System** | CNN classifier reaching 99.93% accuracy (F1 0.999, AUC 0.9998) across 10,000+ samples, with C/C++-accelerated augmentation and Grafana/Kibana observability. | Python, C/C++, TensorFlow, REST API, GCP, Grafana, Kibana |
+| **DevOps Release Tracker API** | Layered Spring Boot REST API with 100% test coverage across 15+ endpoints, JWT authentication, and automated Jenkins/Docker/Ansible provisioning. | Java 17, Spring Boot, Spring Security, JWT, PostgreSQL, Docker, Jenkins, Ansible |
 | **[AXIONA](https://github.com/ShivamKSah/AXIONA)** | AI-powered platform for automating workflows and generating actionable enterprise insights. | TypeScript |
 | **[SnehSathi](https://github.com/ShivamKSah/SnehSathi)** | Supportive community-driven platform focused on well-being, guidance, and care resources. | TypeScript |
 | **[PDF-EDITOR](https://github.com/ShivamKSah/PDF-EDITOR)** | Browser-based PDF editing toolkit for merging, splitting, and transforming documents efficiently. | TypeScript |
@@ -148,7 +148,11 @@
 
 | Role | Company | Period | Type |
 |------|---------|--------|------|
-| Software Engineer Intern | 8-Bit Solutions | 2025 - Present | Remote |
+| Software Engineer Intern - Backend Systems & Reliability | 8-Bit Solutions, Hyderabad | Jan 2025 - Jun 2025 | Remote |
+
+- Cut backend latency 35% and lifted throughput 40% across 10+ Node.js/Express APIs on a live cab-booking platform.
+- Prevented 2 production-breaking payment and fare-calculation defects through stress and load testing.
+- Cut review cycles 30% and improved LLM inference accuracy 18% with CI/CD quality gates and a 20+ template evaluation harness.
 
 ---
 
@@ -156,7 +160,9 @@
 
 | Degree | Institution | Period | Grade |
 |--------|-------------|--------|-------|
-| B.Tech CSE (Big Data Analytics) | SRM Institute of Science and Technology | 2023 - 2027 | 9.2/10 CGPA |
+| B.Tech, Computer Science & Engineering (Big Data Analytics) | SRM Institute of Science and Technology | Aug 2023 - Jun 2027 | 9.2/10 CGPA |
+
+Relevant coursework: Computer Networks, Operating Systems, Distributed Systems, DBMS, and Cloud Computing.
 
 ---
 
