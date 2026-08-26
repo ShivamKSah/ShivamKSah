@@ -144,10 +144,52 @@
 
 ---
 
+## Experience
+
+| Role | Company | Period | Type |
+|------|---------|--------|------|
+| Software Engineer Intern | 8-Bit Solutions | 2025 - Present | Remote |
+
+---
+
+## Education
+
+| Degree | Institution | Period | Grade |
+|--------|-------------|--------|-------|
+| B.Tech CSE (Big Data Analytics) | SRM Institute of Science and Technology | 2023 - 2027 | 9.2/10 CGPA |
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamKSah&theme=github_dark" alt="GitHub contribution activity" width="820"/>
+</p>
+
+## Contribution Streak
+
+<p align="center">
+  <a href="https://github.com/ShivamKSah">
+    <img src="https://img.shields.io/badge/View%20GitHub%20Contribution%20Streak-0A2A43?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub contribution streak"/>
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamKSah&theme=github_dark" alt="GitHub contribution summary" width="820"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivamKSah&theme=github_dark" alt="GitHub statistics" width="400"/>
+</p>
+
+---
+
+## LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/shivam-sah/">
+    <img src="https://leetcard.jacoblin.cool/shivam-sah?theme=dark" alt="Shivam Sah LeetCode statistics" width="500"/>
+  </a>
 </p>
 
 ---
