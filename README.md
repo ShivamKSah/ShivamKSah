@@ -22,29 +22,17 @@
 
 ---
 
-## `~/` whoami
+## About Me
 
-```console
-$ cat about.txt
-```
+> **Software Engineer** building backend systems, distributed infrastructure, and AI-driven products with a strong focus on performance, reliability, and practical impact.
 
-Hi, I'm **Shivam Kumar Sah**. I build backend systems, distributed infrastructure,
-and AI-driven products with a strong focus on performance, reliability, and practical impact.
-
-- Currently building backend systems, distributed services, and applied AI/ML products
-- Portfolio and projects: [github.com/ShivamKSah](https://github.com/ShivamKSah)
-- Learning cloud architecture, system design, and production-grade machine learning
-- Fun fact: I enjoy turning complex systems into simple, dependable tools.
-
-<br>
-
-<div align="center">
-
-## `~/` toolbox
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,spring,nodejs,fastapi,aws,gcp,docker,kubernetes,postgres,mongodb,redis,git,github,vscode&perline=9" alt="technology stack">
-
-</div>
+- 🎓 B.Tech CSE (Big Data Analytics), **SRM Institute of Science and Technology** — CGPA 9.2/10, graduating Jun 2027
+- 💼 Software Engineer Intern @ **8-Bit Solutions** (Backend Systems & Reliability) — reduced backend latency by 35% and increased throughput by 40% on a live production platform
+- 🏆 **Top 1% Nationally** at Smart India Hackathon 2024 (50,000+ participants, 500+ institutions) — led a cross-functional team building a full-stack GenAI enterprise platform
+- 🏅 3× Hackathon Champion — Noobfest, MedAIThon, Smartathon
+- 📝 Published: *"Using ML BERT Models for Plagiarism Detection"* — IEEE IMPACT 2026
+- 🌱 Open Source Contributor, GSSoC 2024 — merged PRs across 3 TypeScript/React repositories
+- 📫 Reach me at **shivamsah141205@gmail.com**
 
 ---
 
