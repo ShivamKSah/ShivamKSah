@@ -146,9 +146,24 @@
 
 ## Experience
 
-| Role | Company | Period | Type |
-|------|---------|--------|------|
-| Software Engineer Intern - Backend Systems & Reliability | 8-Bit Solutions, Hyderabad | Jan 2025 - Jun 2025 | Remote |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%">Role</th>
+      <th width="30%">Company</th>
+      <th width="22%">Period</th>
+      <th width="18%">Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Software Engineer Intern</strong><br/>Backend Systems &amp; Reliability</td>
+      <td><strong>8-Bit Solutions</strong><br/>Hyderabad, India</td>
+      <td>Jan 2025 -<br/>Jun 2025</td>
+      <td>Remote</td>
+    </tr>
+  </tbody>
+</table>
 
 - Cut backend latency 35% and lifted throughput 40% across 10+ Node.js/Express APIs on a live cab-booking platform.
 - Prevented 2 production-breaking payment and fare-calculation defects through stress and load testing.
