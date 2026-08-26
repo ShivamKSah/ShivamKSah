@@ -1,4 +1,10 @@
 <!-- ===================== HEADER ===================== -->
+<div align="center">
+
+<img src="assets/portrait.svg" width="300" alt="Shivam Kumar Sah, rendered as a dot matrix">
+
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=120&section=header&text=Shivam%20Kumar%20Sah&fontSize=40&fontColor=ffffff"/>
 
 <h2 align="center">

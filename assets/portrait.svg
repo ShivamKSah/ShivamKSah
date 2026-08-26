@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="360" viewBox="0 0 360 360" role="img" aria-labelledby="title desc">
+  <title id="title">Shivam Kumar Sah, rendered as a dot matrix</title>
+  <desc id="desc">A terminal-style pixel portrait made from green, amber, and blue dots.</desc>
+  <defs>
+    <pattern id="pixel" width="6" height="6" patternUnits="userSpaceOnUse">
+      <circle cx="2.5" cy="2.5" r="1.8" fill="currentColor"/>
+    </pattern>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#39d353"/><stop offset="1" stop-color="#0b4d36"/>
+    </linearGradient>
+    <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffd166"/><stop offset="1" stop-color="#d85c38"/>
+    </linearGradient>
+    <clipPath id="silhouette">
+      <path d="M55 330c8-68 35-101 84-116-18-23-23-51-16-82 9-39 40-65 78-65 44 0 75 28 83 70 6 31-1 57-19 77 47 15 72 49 80 116z"/>
+    </clipPath>
+  </defs>
+  <rect width="360" height="360" rx="12" fill="#0d1117"/>
+  <g clip-path="url(#silhouette)">
+    <rect x="42" y="42" width="276" height="292" fill="url(#pixel)" style="color:#123b35"/>
+    <path d="M44 220c7-86 29-149 81-164 48-14 112-2 140 43 17 28 20 78 10 125l-34-30-5-87-27-30-89 8-32 40-13 80z" fill="url(#hair)"/>
+    <path d="M121 108c13-34 40-49 75-47 42 2 63 35 62 78-1 45-23 79-58 89-34 9-70-16-81-55-8-27-7-47 2-65z" fill="url(#skin)"/>
+    <path d="M124 111c18-43 53-59 91-46l27 31-15 29-13-27-30 13-47-5-15 30z" fill="url(#hair)"/>
+    <path d="M151 145h29v8h-29zM207 145h29v8h-29z" fill="#321d2a"/>
+    <path d="M164 181c16 11 35 11 51 0" fill="none" stroke="#71342f" stroke-width="5"/>
+    <path d="M181 151l-5 28 13 4" fill="none" stroke="#c75334" stroke-width="4"/>
+    <path d="M60 336c7-68 34-105 86-119 29 22 55 28 84 0 51 14 77 51 86 119z" fill="#1b6ca8"/>
+    <path d="M151 216c17 26 55 31 73 0l20 14c-23 42-71 51-113 0z" fill="#f3ad4b"/>
+    <rect x="52" y="52" width="260" height="284" fill="url(#pixel)" style="color:#f6b447" opacity=".4"/>
+  </g>
+  <path d="M54 330h252" stroke="#39d353" stroke-width="2" opacity=".8"/>
+</svg>
