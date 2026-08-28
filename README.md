@@ -121,7 +121,9 @@
 | Event | Outcome | Prize / Recognition |
 |-------|---------|---------------------|
 | **Smart India Hackathon 2024** | 🥇 **Top 1% Nationally** — 50,000+ participants, 500+ institutions | National recognition |
-| **Noobfest / MedAIThon / Smartathon** | 🏅 **Hackathon Champion** | 3× wins |
+| **Noobfest** | 🏅 **Hackathon Champion** | Winner |
+| **MedAIThon** | 🏅 **Hackathon Champion** | Winner |
+| **Smartathon** | 🏅 **Hackathon Champion** | Winner |
 | **GSSoC 2024** | Open Source Contributor | Merged PRs across 3 repos |
 | **IEEE IMPACT 2026** | Publication — *Using ML BERT Models for Plagiarism Detection* | Published paper |
 | **Certifications** | AWS Developer Associate Prep · Neo4j Certified Professional · NPTEL Data Analytics | Career growth |
